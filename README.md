@@ -1,5 +1,5 @@
 <h3 align="center">
-🚀 MCA Student</h3>
+MCA Student</h3>
 
 #  About Me
 
