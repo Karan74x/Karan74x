@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Karan</h1>
 
-<!--
-**Karan74x/Karan74x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻 Python Developer | SQL Learner | AI Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;SQL+Learner;Future+Software+Engineer;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 BCA Student
+- 🐍 Learning Python
+- 🗄️ Learning SQL
+- 🌱 Exploring AI & Machine Learning
+- ⚡ Goal: Become a Software Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Karan74x&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan74x&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Karan74x&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+<a href="https://github.com/Karan74x">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+</p>
