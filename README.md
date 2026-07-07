@@ -1,11 +1,9 @@
-<h1 align="center">Karan74x</h1>
-
 <h3 align="center">
 🚀 MCA Student | Tech Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=BCA+Student;Backend+Developer+in+Progress;Node.js+%7C+Express.js+%7C+MongoDB;Learning+Something+New+Everyday+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=MCA+Student;Backend+Developer+in+Progress;Node.js+%7C+Express.js+%7C+MongoDB;Learning+Something+New+Everyday+🚀" />
 </p>
 
 ---
