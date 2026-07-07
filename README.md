@@ -1,7 +1,5 @@
 <h3 align="center">
-🚀 MCA Student | Tech Enthusiast
-</h3>
----
+🚀 MCA Student</h3>
 
 #  About Me
 
