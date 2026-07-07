@@ -4,7 +4,6 @@ MCA Student</h3>
 #  About Me
 
 -  Currently learning **Backend Development**
-- Interested in Web Development and Software Engineering
 
 ---
 
@@ -16,14 +15,4 @@ MCA Student</h3>
 
 </p>
 
----
 
-#  Currently Learning
-
-- Backend Development
-- REST APIs
-- Express.js
-- MongoDB & Mongoose
-- System Design Basics
-
----
