@@ -23,7 +23,7 @@ MCA Student</h3>
 
 #### 🗄️ Databases & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=svg,mongodb,npm" alt="Databases and Tools" />
+  <img src="https://skillicons.dev/icons?sql,mongodb,npm" alt="Databases and Tools" />
 </p>---
 </p>
 
