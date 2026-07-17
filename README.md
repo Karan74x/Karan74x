@@ -10,7 +10,7 @@
 
 #### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript" alt="Programming Languages" />
 </p>
 
 #### 🌐 Web Development (Frontend & Backend)
