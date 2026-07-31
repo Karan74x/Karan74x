@@ -1,31 +1,38 @@
 <h3 align="center">MCA Student</h3>
 
-# 👋 About Me
+# About Me
 
-- 🎓 MCA Student
-- 💻 Currently learning **Backend Development**
-- 📊 Exploring **Data Science with Python**
+I'm an MCA student who enjoys learning new technologies and building practical software projects.
+
+### Currently Learning
+
+-  Flutter
+-  ASP.NET
+-  Artificial Intelligence & Machine Learning
+-  Data Science with Python
 
 ---
 
-# 🛠️ Tech Stack & Tools
+# <img src="https://img.icons8.com/fluency/28/code.png"/> Tech Stack & Tools
 
 #### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python,javascript" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,dart" alt="Programming Languages" />
 </p>
 
-#### 🌐 Web Development (Frontend & Backend)
+####  Frameworks & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express" alt="Web Development" />
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,flutter,dotnet" alt="Frameworks and Technologies" />
 </p>
 
-#### 🗄️ Databases & Development Tools
+####  Databases & Development Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,npm,git,github,postman,vscode" alt="Databases and Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,npm,git,github,postman,vscode,visualstudio" alt="Databases and Tools" />
 </p>
 
-#### 📚 Libraries & Packages
+---
+
+<img src="https://img.icons8.com/fluency/28/book.png"/> Libraries & Packages
 
 **Python**
 
@@ -46,8 +53,7 @@
 </p>
 
 ---
-
-# 🌐 Connect with Me
+<img src="https://img.icons8.com/fluency/28/domain.png"/> Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/karan-rahani-7116283b1" target="_blank">
