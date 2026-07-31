@@ -1,6 +1,8 @@
 <h3 align="center">MCA Student</h3>
 
-# About Me
+# <img src="https://primer.style/octicons/person-24.svg" width="24"> About Me
+
+
 
 I'm an MCA student who enjoys learning new technologies and building practical software projects.
 
@@ -13,7 +15,7 @@ I'm an MCA student who enjoys learning new technologies and building practical s
 
 ---
 
-# <img src="https://img.icons8.com/fluency/28/code.png"/> Tech Stack & Tools
+# <img src="https://primer.style/octicons/code-24.svg" width="24"> Tech Stack
 
 #### 💻 Programming Languages
 <p align="left">
@@ -32,7 +34,7 @@ I'm an MCA student who enjoys learning new technologies and building practical s
 
 ---
 
-<img src="https://img.icons8.com/fluency/28/book.png"/> Libraries & Packages
+# <img src="https://primer.style/octicons/package-24.svg" width="24"> Libraries
 
 **Python**
 
@@ -53,7 +55,8 @@ I'm an MCA student who enjoys learning new technologies and building practical s
 </p>
 
 ---
-<img src="https://img.icons8.com/fluency/28/domain.png"/> Connect with Me
+
+# <img src="https://primer.style/octicons/mail-24.svg" width="24"> Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/karan-rahani-7116283b1" target="_blank">
