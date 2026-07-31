@@ -1,21 +1,6 @@
 <h3 align="center">MCA Student</h3>
 
-# <img src="https://primer.style/octicons/person-24.svg" width="24"> About Me
-
-
-
-I'm an MCA student who enjoys learning new technologies and building practical software projects.
-
-### Currently Learning
-
--  Flutter
--  ASP.NET
--  Artificial Intelligence & Machine Learning
--  Data Science with Python
-
----
-
-# <img src="https://primer.style/octicons/code-24.svg" width="24"> Tech Stack
+# ◉ Tech Stack & Tools
 
 #### 💻 Programming Languages
 <p align="left">
@@ -34,7 +19,10 @@ I'm an MCA student who enjoys learning new technologies and building practical s
 
 ---
 
-# <img src="https://primer.style/octicons/package-24.svg" width="24"> Libraries
+
+
+# ◉ Libraries & Packages
+
 
 **Python**
 
@@ -56,7 +44,7 @@ I'm an MCA student who enjoys learning new technologies and building practical s
 
 ---
 
-# <img src="https://primer.style/octicons/mail-24.svg" width="24"> Connect
+# ◉ Connect 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/karan-rahani-7116283b1" target="_blank">
